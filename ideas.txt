@@ -1,2 +1,0 @@
-word file integration
-excel file integration
